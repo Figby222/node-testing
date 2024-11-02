@@ -5,4 +5,6 @@ const testRouter = Router();
 
 testRouter.get("/", testController.testGet);
 
+testRouter.post("/", testController.testPost);
+
 export default testRouter;
