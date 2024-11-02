@@ -1,1 +1,1 @@
-A Node.js template repository for a RESTFUL API using node express
+A Node.js repository used to practice testing a RESTFUL API

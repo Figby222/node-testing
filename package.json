@@ -1,21 +1,21 @@
 {
-  "name": "node-rest-api-template",
+  "name": "node-testing",
   "version": "1.0.0",
-  "description": "A Node.js template repository for a RESTFUL API using node express",
+  "description": "A Node.js repository used to practice testing a RESTFUL API",
   "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Figby222/node-rest-api-template.git"
+    "url": "git+https://github.com/Figby222/node-testing.git"
   },
   "author": "Figby222",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Figby222/node-rest-api-template/issues"
+    "url": "https://github.com/Figby222/node-testing/issues"
   },
-  "homepage": "https://github.com/Figby222/node-rest-api-template#readme",
+  "homepage": "https://github.com/Figby222/node-testing#readme",
   "dependencies": {
     "@prisma/client": "^5.21.1",
     "bcryptjs": "^2.4.3",
